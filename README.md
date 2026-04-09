@@ -11,9 +11,9 @@
 |   and computer hardware, and even visited CISCO as part of an initiative supporting women in STEM.                        |        
 |                                                                                                                           |
 |   I earned my Associate's and Bachelor's in Computer Science, then pursued a Master's in Cybersecurity, which quickly     |
-|   became a passion of mine.                                                                                               |
+|   became a strong passion of mine.                                                                                        |
 |                                                                                                                           |
-|   I enjoy learning independently and experimenting with new skills. Some things I’ve explored on my own include:          |
+|   I enjoy learning independently and exploring new skills. Some things I’ve explored on my own include:                   |
 |      ᝰ Graphic design with GIMP                                                                                          |                                                                              
 |      ᝰ Video creation and editing with Sony Vegas                                                                        |
 |      ᝰ Vector graphics with Linearity Curve                                                                              |
@@ -42,15 +42,15 @@
 |  Lab Experience:                                                                                                          |
 |     ⤷ Wireshark, Splunk, and SIEM tools                                                                                   |
 |                                                                                                                           |
-|  ᯓ★ Currently working toward CompTIA Security+ certification, Expected: April 2026                                       |
+|  ᯓ★ Currently working toward CompTIA Security+ (Expected: April 2026)                                                    |
 |                                                                                                                           |
 ┞––––––––--–––––––––––––––––––––––––––––––––––––––––––––––––---------------------------------------------------------------–┦
 |                                                                                                                           |
 |  <b>III. Personal Interests</b>                                                                                                  |
 |                                                                                                                           |
 |   🍓 Likes: coffee, video essays, history                                                                                 |
-|   📼 Hobbies: playing video games, crocheting, cross-stitching, hiking                                                    |
-|   🌺 Fun Fact: I'm a huge traveler, I've been to most of the states and have been to several countries in Europe & Asia   |                                                                                           |                                                                                                                           |
+|   📼 Hobbies: video games, crocheting, cross-stitching, hiking                                                            |
+|   🌺 Fun Fact: I love traveling and have visited most U.S. states, along with several countries in Europe and Asia        |                                                                                          |                                                                                                                           |
 |                                                                                                                           |
 ╰–––––––––––--–––––––-------------–––––––--------------------------------------------------–––––––––––––––––––––––––––––––––╯
 
